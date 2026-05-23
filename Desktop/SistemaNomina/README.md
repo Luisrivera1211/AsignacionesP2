@@ -8,14 +8,16 @@ reportes de nómina para cada tipo de empleado.
 
 ## Estructura del proyecto
 
+```
 SistemaNomina/
 ├── Models/
-│ ├── Empleado.cs
-│ ├── EmpleadoAsalariado.cs
-│ ├── EmpleadoAsalariadoPorComision.cs
-│ ├── EmpleadoPorComision.cs
-│ └── EmpleadoPorHoras.cs
+│   ├── Empleado.cs
+│   ├── EmpleadoAsalariado.cs
+│   ├── EmpleadoAsalariadoPorComision.cs
+│   ├── EmpleadoPorComision.cs
+│   └── EmpleadoPorHoras.cs
 └── Program.cs
+```
 
 ## Como ejecutarlo
 
