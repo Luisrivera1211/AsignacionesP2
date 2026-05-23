@@ -21,8 +21,13 @@ SistemaNomina/
 
 ## Como ejecutarlo
 
+### Requisitos
+- Visual Studio 2022 o superior
+- .NET 8 SDK
+
+### Pasos
 1. Clonar el repositorio
-2. Abrir `SistemaNomina.sln` en Visual Studio
+2. Abrir `SistemaNomina.slnx` en Visual Studio
 3. Presionar `F5` o `Ctrl + F5` para ejecutar
 
 ## Conceptos aplicados
