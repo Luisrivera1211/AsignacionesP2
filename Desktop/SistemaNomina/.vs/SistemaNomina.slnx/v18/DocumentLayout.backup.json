@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|c:\\users\\luis\\source\\repos\\sistemanomina\\sistemanomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|solutionrelative:sistemanomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|c:\\users\\luis\\source\\repos\\sistemanomina\\sistemanomina\\models\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|solutionrelative:sistemanomina\\models\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|c:\\users\\luis\\source\\repos\\sistemanomina\\sistemanomina\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|solutionrelative:sistemanomina\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|c:\\users\\luis\\source\\repos\\sistemanomina\\sistemanomina\\models\\empleadoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|solutionrelative:sistemanomina\\models\\empleadoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|c:\\users\\luis\\source\\repos\\sistemanomina\\sistemanomina\\models\\empleadoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|solutionrelative:sistemanomina\\models\\empleadoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|c:\\users\\luis\\source\\repos\\sistemanomina\\sistemanomina\\models\\empleadoasalariadoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1BA76C-057E-F30D-B3E4-18789D4C6970}|SistemaNomina\\SistemaNomina.csproj|solutionrelative:sistemanomina\\models\\empleadoasalariadoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaNomina\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Program.cs",
+              "RelativeToolTip": "SistemaNomina\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T00:59:33.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoPorHoras.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Models\\EmpleadoPorHoras.cs",
+              "RelativeDocumentMoniker": "SistemaNomina\\Models\\EmpleadoPorHoras.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Models\\EmpleadoPorHoras.cs",
+              "RelativeToolTip": "SistemaNomina\\Models\\EmpleadoPorHoras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:41:40.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "SistemaNomina\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Models\\Empleado.cs",
+              "RelativeToolTip": "SistemaNomina\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T01:44:17.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoPorComision.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Models\\EmpleadoPorComision.cs",
+              "RelativeDocumentMoniker": "SistemaNomina\\Models\\EmpleadoPorComision.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Models\\EmpleadoPorComision.cs",
+              "RelativeToolTip": "SistemaNomina\\Models\\EmpleadoPorComision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:41:54.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoAsalariado.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Models\\EmpleadoAsalariado.cs",
+              "RelativeDocumentMoniker": "SistemaNomina\\Models\\EmpleadoAsalariado.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Models\\EmpleadoAsalariado.cs",
+              "RelativeToolTip": "SistemaNomina\\Models\\EmpleadoAsalariado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:41:25.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoAsalariadoPorComision.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Models\\EmpleadoAsalariadoPorComision.cs",
+              "RelativeDocumentMoniker": "SistemaNomina\\Models\\EmpleadoAsalariadoPorComision.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\SistemaNomina\\SistemaNomina\\Models\\EmpleadoAsalariadoPorComision.cs",
+              "RelativeToolTip": "SistemaNomina\\Models\\EmpleadoAsalariadoPorComision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:42:13.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
