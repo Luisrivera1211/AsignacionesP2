@@ -1,0 +1,14 @@
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\bin\Debug\net10.0\SistemaGestionCitas.exe
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\bin\Debug\net10.0\SistemaGestionCitas.deps.json
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\bin\Debug\net10.0\SistemaGestionCitas.runtimeconfig.json
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\bin\Debug\net10.0\SistemaGestionCitas.dll
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\bin\Debug\net10.0\SistemaGestionCitas.pdb
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\obj\Debug\net10.0\SistemaGestionCitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\obj\Debug\net10.0\SistemaGestionCitas.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\obj\Debug\net10.0\SistemaGestionCitas.AssemblyInfo.cs
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\obj\Debug\net10.0\SistemaGestionCitas.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\obj\Debug\net10.0\SistemaGestionCitas.dll
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\obj\Debug\net10.0\refint\SistemaGestionCitas.dll
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\obj\Debug\net10.0\SistemaGestionCitas.pdb
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\obj\Debug\net10.0\SistemaGestionCitas.genruntimeconfig.cache
+C:\Users\Luis\source\repos\SistemaGestionCitas\SistemaGestionCitas\obj\Debug\net10.0\ref\SistemaGestionCitas.dll
