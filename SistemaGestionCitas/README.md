@@ -40,4 +40,4 @@ La clínica manejaba sus citas de forma manual generando problemas como citas du
 - Almacenamiento en memoria
 
 ## Autor
-Luis Rivera
+Luis Alberto Moscoso Rivera - Matricula: 2025-2065
